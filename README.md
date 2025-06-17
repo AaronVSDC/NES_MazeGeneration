@@ -1,4 +1,6 @@
 # AssemblyMaze
+## How to set up
+plug the Maze.nes file into your favorite NES emulator (Mesen works great)
 ## How To Play
 In the titlescreen: <br>
   &nbsp;&nbsp;&nbsp;&nbsp;DPAD UP: move selection UP <br>
