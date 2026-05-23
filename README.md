@@ -1,7 +1,9 @@
 # AssemblyMaze
 
 ## Demo Video
-https://github.com/AaronVSDC/NES_MazeGeneration/raw/main/ProjectDemo.mp4
+https://github.com/user-attachments/assets/6da16d51-9c4a-436f-98ef-2b959bb482cb
+
+
 
 ## How to set up
 plug the Maze.nes file into your favorite NES emulator (Mesen works great)
