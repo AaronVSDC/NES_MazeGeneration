@@ -1,4 +1,8 @@
 # AssemblyMaze
+
+## Demo Video
+<video src="https://github.com/USER/REPO/raw/main/DemoVideo.mp4" controls width="600"></video>
+
 ## How to set up
 plug the Maze.nes file into your favorite NES emulator (Mesen works great)
 ## How To Play
@@ -11,9 +15,7 @@ In the titlescreen: <br>
 In game: <br>
   &nbsp;&nbsp;&nbsp;&nbsp;Start: Pause game <br>
   &nbsp;&nbsp;&nbsp;&nbsp;DPAD: Move UP/RIGHT/DOWN/LEFT <br> <br>
-
 Reach the end of the maze to finish the level.
-
   ## Participants
   &nbsp;&nbsp;&nbsp;&nbsp; Mauro Deryckere <br>
   &nbsp;&nbsp;&nbsp;&nbsp; Seppe Mestdagh <br>
