@@ -1,7 +1,7 @@
 # AssemblyMaze
 
 ## Demo Video
-<video src="https://github.com/AaronVSDC/NES_MazeGeneration/raw/main/DemoVideo.mp4" controls width="600"></video>
+<video src="https://github.com/AaronVSDC/NES_MazeGeneration/raw/main/ProjectDemo.mp4" controls width="600"></video>
 
 ## How to set up
 plug the Maze.nes file into your favorite NES emulator (Mesen works great)
